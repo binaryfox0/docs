@@ -1,6 +1,6 @@
 Performance of Matrix with inner 1D array vs 2D array
 ===
-https://stackoverflow.com/questions/12258399/how-do-i-create-a-folder-in-a-github-repository
+https://stackoverflow.com/questions/17259877/1d-or-2d-array-whats-faster
 
 ### tl;dr : You should probably use a one-dimensional approach.
 
